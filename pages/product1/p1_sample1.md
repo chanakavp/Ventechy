@@ -1,5 +1,5 @@
 ---
-title: Chanaka Sampel Ventechy (Product 1)
+title: Praneesha Sample Ventechy (Product 1)
 keywords: sample
 summary: "This is just a sample topic..."
 sidebar: product1_sidebar
