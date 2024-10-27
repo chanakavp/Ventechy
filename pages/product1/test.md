@@ -1,6 +1,7 @@
+---
 title: test CP
-
 tags: sample
+---
 
 sidebar: product1_sidebar
 
