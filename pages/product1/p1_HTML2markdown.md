@@ -4,7 +4,7 @@ keywords: sample
 ---
 
 sidebar: product1_sidebar
-permalink: p1_sample1.html
+permalink: p1_HTML2MD.html
 
 ::: {#page_content}
 
