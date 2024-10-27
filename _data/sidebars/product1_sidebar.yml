@@ -38,6 +38,10 @@ entries:
     - title: Sample 3
       url: /p1_sample3.html
       output: web, pdf
+      
+    - title: Sample 3.1
+      url: /p1_sample3_1.html
+      output: web, pdf
 
     - title: Test Menu Item Ventechy
       url: /p1_HTML2markdown.html
