@@ -1,6 +1,5 @@
 ---
-GENERATOR: Microsoft FrontPage 12.0
-title: Template for About Descriptions
+title: IFSTemplate for About Descriptions
 keywords: sample
 ---
 
@@ -8,6 +7,9 @@ sidebar: product1_sidebar
 permalink: p1_sample1.html
 
 ::: {#page_content}
+
+folder: product1
+---
 
 # Sample HTML to Markdown conversion
 
