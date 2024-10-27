@@ -24,3 +24,4 @@ Sample Text
 | Properly | Good Job! |
 | :)       | :D        |
 
+{% include links.html %}
