@@ -13,22 +13,22 @@ folder: product1
 Mobile Maintenance for Aviation enables aviation maintenance teams to
 perform maintenance activities from preparing for aircraft arrival,
 recording maintenance, and deferring faults, to releasing an aircraft,
-via the IFS Cloud Web and IFS Cloud Mobile user interfaces.
+via the Ventechy Cloud Web and Ventechy Cloud Mobile user interfaces.
 
-**IFS Cloud Mobile Maintenance for Aviation** consists of:
+**Ventechy Cloud Mobile Maintenance for Aviation** consists of:
 
 - The **Aviation Maintenance** web application for administrators to
   create and update reference and baseline data to support mobile
   maintenance activities.
 - The **Mobile Maintenance for Aviation** mobile application**,** with
-  App Store name **IFS Maintenance for Aviation,** available on mobile
+  App Store name **Ventechy Maintenance for Aviation,** available on mobile
   devices for aviation maintenance teams to record and execute work as
   it is performed with the ability to record some actions offline when a
   WiFi connectivity is lost. 
 - The **Mobile Maintenance for Aviation** web application available for
   aviation maintenance teams to execute work via a web browser online.
 
- **IFS Cloud Mobile Maintenance for Aviation** can be deployed
+ **Ventechy Cloud Mobile Maintenance for Aviation** can be deployed
 integrated with Maintenix as the primary Maintenance and Engineering
 (M&E) system, or as a standalone maintenance execution system.
 
@@ -38,18 +38,18 @@ Where options exist an administrator can choose to create or update
 basic data and requirements (BDRs) for aviation maintenance workflows
 via pages in **Aviation Maintenance/Basic Data** or choose to load data
 via data loading and migration processes.  
-  
+
 Similarly in the case of aircraft configuration, an administrator can
 load aircraft configuration data via data loading and migration
-processes. Refer to the IFS Cloud Technical Documentation on Mobile
+processes. Refer to the Ventechy Cloud Technical Documentation on Mobile
 Maintenance for Aviation for information on how to migrate maintenance
 data and load aircraft configuration.  
-  
+
 Line planners can upload work packages and their contents using the
 Mobile Maintenance Work Package Loader. If Mobile Maintenance for
 Aviation is not integrated with a flight following system, line
 supervisors can create and update flights, as needed.  
-  
+
 Information is then ready to be utilized by mobile aviation maintenance
 teams to perform maintenance activities.
 
@@ -163,7 +163,7 @@ actions taken, part changes, tool use and measurement values on work
 tasks. They can also complete a task or close a fault.</td>
 <td class="tableline">Mobile and web application</td>
 <td class="tableline">Online and offline. If you are recording usage for
-tools/equipment that originate from IFS Cloud as opposed to Maintenix,
+tools/equipment that originate from Ventechy Cloud as opposed to Maintenix,
 you must be online to do so.</td>
 <td class="tableline">No</td>
 </tr>
@@ -263,13 +263,13 @@ Failed transactions are transactions that do not synchronize with the
 backend system for various reasons. The primary causes include system
 data errors, transaction data errors, process errors, software errors,
 or consequential errors.  
-  
+
 As a technician, if you encounter a banner alerting you of a failed
 transaction or when you attempt to perform an activity like raising a
 fault but find yourself unable to proceed further, you must reach out to
 an administrator. The administrator will review the failed transaction
 details and provide assistance in resolving the issue.  
-  
+
 If a failed transaction is present, banners are displayed on the
 following pages:
 
