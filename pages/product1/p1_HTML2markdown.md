@@ -17,9 +17,10 @@ Sample Text
 
 ## Sample HTML to Markdown conversion
 
-|          |           |
+|test| test |
 |----------|-----------|
 | This     | Table     |
 | Is       | Converted |
 | Properly | Good Job! |
 | :)       | :D        |
+
