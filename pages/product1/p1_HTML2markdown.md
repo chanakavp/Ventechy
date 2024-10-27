@@ -6,8 +6,6 @@ keywords: sample
 sidebar: product1_sidebar
 permalink: p1_HTML2MD.html
 
-::: {#page_content}
-
 folder: product1
 ---
 
@@ -25,9 +23,3 @@ Sample Text
 | Is       | Converted |
 | Properly | Good Job! |
 | :)       | :D        |
-
-Sample Text
-:::
-
-::: {#dynamic_links}
-:::
