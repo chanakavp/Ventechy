@@ -11,8 +11,6 @@ folder: product1
 
 # Sample HTML to Markdown conversion
 
-  
-
 Sample Text
 
 ## Sample HTML to Markdown conversion
@@ -25,3 +23,4 @@ Sample Text
 | :)       | :D        |
 
 {% include links.html %}
+
